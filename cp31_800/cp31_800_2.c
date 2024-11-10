@@ -32,7 +32,7 @@ int main()
 
         int max = diff[0];
 
-        for (int k = 0; k < n + 1; k++) // check for max
+        for (int k = 0; k < n + 1; k++)
         {
 
             if (diff[k] > max)
