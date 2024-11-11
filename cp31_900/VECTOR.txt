@@ -1,0 +1,7 @@
+std::vector<dataType> name;
+
+std::vector<dataType> name(size, val); // initialising all elements with val
+
+DUPLICATION - std::vector<dataType> name(vector_2)
+
+ rend() || _begin()  | _ | _ | _ | _ | _rbegin() || end()
