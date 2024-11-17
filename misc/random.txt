@@ -1,0 +1,29 @@
+std::vector<dataType> name;
+
+std::vector<dataType> name(size, val); // initialising all elements with val
+
+DUPLICATION - std::vector<dataType> name(vector_2)
+
+ rend() || _begin()  | _ | _ | _ | _ | _rbegin() || end()
+
+ #include <iostream>
+ #include <vector>
+
+ int main() {
+
+    int T;
+    std::cin >> T;
+    while(T--) {
+
+        int n;
+        std::cin >> n;
+
+        std::vector<long int> array;
+        for(int i = 0; i < n; i ++) {
+            std::cin >> array[i];
+        }
+
+    }
+
+    return 0;
+ }

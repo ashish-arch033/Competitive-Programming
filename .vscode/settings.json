@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "math.h": "c",
+        "vector": "cpp",
+        "iostream": "cpp",
         "*.tcc": "cpp",
         "cctype": "cpp",
         "clocale": "cpp",
@@ -16,7 +17,6 @@
         "exception": "cpp",
         "fstream": "cpp",
         "iosfwd": "cpp",
-        "iostream": "cpp",
         "istream": "cpp",
         "limits": "cpp",
         "memory": "cpp",
@@ -31,7 +31,7 @@
         "cstdint": "cpp",
         "deque": "cpp",
         "unordered_map": "cpp",
-        "vector": "cpp",
+        "unordered_set": "cpp",
         "algorithm": "cpp",
         "functional": "cpp",
         "iterator": "cpp",
