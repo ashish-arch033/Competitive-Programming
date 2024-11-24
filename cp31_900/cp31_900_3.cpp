@@ -1,5 +1,4 @@
 #include <iostream>
-// not a 900*
 
 int main() {
 

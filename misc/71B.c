@@ -16,7 +16,6 @@ int main()
     int _box = (int)box;
     int _fill = (int)fill;
 
-    // printf("%f %f %f %f %d %d", box, frac, num, fill, _box, _fill);
     if (t == 100)
     {
 

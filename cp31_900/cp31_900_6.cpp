@@ -17,10 +17,10 @@ int main()
             continue;
         }
 
-        int good = 1;
         int i = 1;
         int counter = 0;
-        while (good) {
+        
+        while (true) {
             if(n%i == 0) {
                 counter++;
                 i++;
